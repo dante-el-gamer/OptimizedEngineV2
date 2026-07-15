@@ -1,3 +1,7 @@
+# este proyecto lo tengo temporalmente de lado porque tengo otras cosas que hacer que son más importante
+
+
+
 # ![Optimized Engine - A engine made with PinguinMod](Assets/README.md/banner.png)
 
 An improved engine, a little smoother than before and equally or less customizable for [Friday Night Funkin'](https://github.com/FunkinCrew/Funkin), An improved engine, slightly smoother than before and just as customizable for Friday Night Funkin', designed with the understanding that the engine is based on a simpler, [scratch-built](https://github.com/scratchfoundation) modification.
